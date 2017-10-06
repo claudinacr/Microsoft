@@ -1,0 +1,42 @@
+/* hola soy un comentario */
+
+body{
+   text-align: center; 
+   color: #031623;
+   font-family: 'Pacifico', cursive;
+
+
+}
+.cuadrado-color{
+    background-color: #FFF176;
+    padding-bottom: 20px;
+
+}
+
+.aboutTheGroup{
+    background-color: LightSalmon;
+
+    
+
+}
+.foto-cantante{
+    width:300px;
+    height:400px;
+
+    
+
+}
+
+.info{
+    background-color: #DAF7A6;    
+}
+
+.info{
+    /*dotted, dashed*/
+    border-top:1px dashed;
+    /*buscar types border css*/
+}
+
+
+
+
